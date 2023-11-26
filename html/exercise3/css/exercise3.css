@@ -1,0 +1,14 @@
+.fruits > li > p {
+    color: crimson;
+    font-size: 15px;
+}
+#vegetables {
+    color: #20e608;
+    font-size: 100px;
+}
+#example {
+    display: flex;
+    border: 1px solid black;
+    width: 300px;
+    box-shadow: 2px 2px black;
+}
